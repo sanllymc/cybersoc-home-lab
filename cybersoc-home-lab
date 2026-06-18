@@ -1,0 +1,36 @@
+# CyberSOC Home Lab
+
+## Project Overview
+
+This project documents the creation of a cybersecurity laboratory using PNETLab, Kali Linux and Ubuntu Server.
+
+The goal is to practice network reconnaissance, service enumeration, troubleshooting and security analysis.
+
+## Lab Architecture
+
+### Attacker
+
+* Kali Linux
+* IP Address: 192.168.100.10
+
+### Target
+
+* Ubuntu Server 18.04
+* IP Address: 192.168.100.20
+
+## Technologies Used
+
+* PNETLab
+* Kali Linux
+* Ubuntu Server
+* Nmap
+
+## Current Activities
+
+* Network configuration
+* Service discovery
+* Vulnerability assessment
+
+## Author
+
+Sanlly Mora
